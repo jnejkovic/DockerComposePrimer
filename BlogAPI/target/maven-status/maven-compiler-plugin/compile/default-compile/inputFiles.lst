@@ -1,0 +1,5 @@
+/home/jnejkovic/Documents/Projects/BlogAPI/src/main/java/com/odazie/simpleblog/data/entity/Post.java
+/home/jnejkovic/Documents/Projects/BlogAPI/src/main/java/com/odazie/simpleblog/web/PostRestController.java
+/home/jnejkovic/Documents/Projects/BlogAPI/src/main/java/com/odazie/simpleblog/business/PostService.java
+/home/jnejkovic/Documents/Projects/BlogAPI/src/main/java/com/odazie/simpleblog/data/repository/PostRepository.java
+/home/jnejkovic/Documents/Projects/BlogAPI/src/main/java/com/odazie/simpleblog/SimpleBlogApplication.java

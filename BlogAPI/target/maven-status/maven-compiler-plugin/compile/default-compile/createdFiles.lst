@@ -1,0 +1,5 @@
+com/odazie/simpleblog/SimpleBlogApplication.class
+com/odazie/simpleblog/web/PostRestController.class
+com/odazie/simpleblog/data/repository/PostRepository.class
+com/odazie/simpleblog/business/PostService.class
+com/odazie/simpleblog/data/entity/Post.class
